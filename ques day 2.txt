@@ -1,0 +1,9 @@
+ques 2 - write a program if it take input b/w 1 and 9 it shows its alpha betical form or word 
+and if the input is graeter than 9 it prinnt "greater than 9"
+example input = 1 
+output = one 
+
+ex -2 input- 5
+      output- five 
+exam 3 -  input- 88
+           ouput - Greater than 9
